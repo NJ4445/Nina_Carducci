@@ -329,7 +329,7 @@ input[type="submit"] {
     .top-header .nav li {
         flex: 1;
         padding: 1em 0;
-        text-align: center;
+        text-align: center; 
     }
 
     .picture.left::before,
