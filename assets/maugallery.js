@@ -150,7 +150,7 @@
       } else if (position === "top") {
         gallery.prepend(tagsRow);
       } else {
-        console.error(`Unknown tags position: ${position}`);
+        console.error(`Unknown tags position: ${position}`); 
       }
     },
 
